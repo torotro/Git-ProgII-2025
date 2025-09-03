@@ -1,0 +1,15 @@
+C:\Users\davil\source\repos\facturaApp\facturaApp\bin\Debug\net8.0\facturaApp.exe
+C:\Users\davil\source\repos\facturaApp\facturaApp\bin\Debug\net8.0\facturaApp.deps.json
+C:\Users\davil\source\repos\facturaApp\facturaApp\bin\Debug\net8.0\facturaApp.runtimeconfig.json
+C:\Users\davil\source\repos\facturaApp\facturaApp\bin\Debug\net8.0\facturaApp.dll
+C:\Users\davil\source\repos\facturaApp\facturaApp\bin\Debug\net8.0\facturaApp.pdb
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\facturaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\facturaApp.AssemblyInfoInputs.cache
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\facturaApp.AssemblyInfo.cs
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\facturaApp.csproj.CoreCompileInputs.cache
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\facturaApp.sourcelink.json
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\facturaApp.dll
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\refint\facturaApp.dll
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\facturaApp.pdb
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\facturaApp.genruntimeconfig.cache
+C:\Users\davil\source\repos\facturaApp\facturaApp\obj\Debug\net8.0\ref\facturaApp.dll
