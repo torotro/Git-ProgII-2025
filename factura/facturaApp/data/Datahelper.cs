@@ -16,7 +16,7 @@ namespace facturaApp.data
 
         private Datahelper()
         {
-            _connection = new SqlConnection(@"");
+            _connection = new SqlConnection(@"Data Source=CARMEN\SQLEXPRESS;Initial Catalog=facturas_BD;Integrated Security=True;Encrypt=False");
         }
         public static Datahelper GetInstance()
         {

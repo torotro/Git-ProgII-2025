@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace facturaApp.services
 {
-    internal class productservices
+    public class productservices
     {
     }
 }

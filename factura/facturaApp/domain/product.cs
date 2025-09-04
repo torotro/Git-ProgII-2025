@@ -8,10 +8,10 @@ namespace facturaApp.domain
 {
     public class product
     {
-        private int Id {  get; set; }
-        private string Name { get; set; }
+        public int Id {  get; set; }
+        public string Name { get; set; }
 
-        private double UnitPrice { get; set; }
+        public double UnitPrice { get; set; }
 
         public int stock {  get; set; }
 

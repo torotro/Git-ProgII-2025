@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace facturaApp.data
 {
-    internal interface IProductrepository
+    internal interface IBillrepository
     {
         List<Bill> getall();
         Bill? getbyid(int id);
