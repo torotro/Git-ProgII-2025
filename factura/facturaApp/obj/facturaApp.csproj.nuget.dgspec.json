@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davil\\source\\repos\\facturaApp\\facturaApp\\facturaApp.csproj": {}
+    "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\facturaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davil\\source\\repos\\facturaApp\\facturaApp\\facturaApp.csproj": {
+    "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\facturaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davil\\source\\repos\\facturaApp\\facturaApp\\facturaApp.csproj",
+        "projectUniqueName": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\facturaApp.csproj",
         "projectName": "facturaApp",
-        "projectPath": "C:\\Users\\davil\\source\\repos\\facturaApp\\facturaApp\\facturaApp.csproj",
+        "projectPath": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\facturaApp.csproj",
         "packagesPath": "C:\\Users\\davil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davil\\source\\repos\\facturaApp\\facturaApp\\obj\\",
+        "outputPath": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

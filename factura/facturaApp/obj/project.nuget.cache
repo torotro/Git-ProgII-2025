@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eqLc1VMDR8E=",
+  "dgSpecHash": "0LFGCqBJPVQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\davil\\source\\repos\\facturaApp\\facturaApp\\facturaApp.csproj",
+  "projectFilePath": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\facturaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davil\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\davil\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
