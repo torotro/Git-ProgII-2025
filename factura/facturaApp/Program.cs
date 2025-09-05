@@ -4,7 +4,7 @@ using facturaApp.services;
 
 productServices o = new productServices();
 
-Console.WriteLine("obetner  los articulos - getall");
+Console.WriteLine("obtener  los articulos - getall");
 
 List<Product> lp = o.GetProducts();
 
@@ -22,7 +22,7 @@ else
       
 }
 
-Console.WriteLine("obtener articulos por id - getby id");
+Console.WriteLine("obtener articulos por id - getbyid");
 Product? p5 = o.GetProduct(5);
 
 
@@ -34,6 +34,10 @@ else
 {
     Console.WriteLine("no existe ese articulo");
 }
+
+Billservices ob= new Billservices();
+
+Console.WriteLine("guardar factura -save");
 
 
    

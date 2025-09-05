@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\data\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\data\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\services\\billservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\services\\billservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\data\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +23,24 @@
       "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\data\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\data\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\domain\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\domain\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|c:\\users\\davil\\git-progii-2025\\factura\\facturaapp\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ED2CA2-20E8-468C-BBCC-E848E7C0DDC4}|facturaApp\\facturaApp.csproj|solutionrelative:facturaapp\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "facturaApp\\domain\\bill.cs",
               "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\domain\\bill.cs",
               "RelativeToolTip": "facturaApp\\domain\\bill.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T23:36:01.39Z",
               "IsPinned": true,
@@ -65,14 +69,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "productRepository.cs",
-              "DocumentMoniker": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\productRepository.cs",
-              "RelativeDocumentMoniker": "facturaApp\\data\\productRepository.cs",
-              "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\productRepository.cs",
-              "RelativeToolTip": "facturaApp\\data\\productRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAsAAAAAAAAAA==",
+              "Title": "billservices.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\services\\billservices.cs",
+              "RelativeDocumentMoniker": "facturaApp\\services\\billservices.cs",
+              "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\services\\billservices.cs",
+              "RelativeToolTip": "facturaApp\\services\\billservices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T05:28:12.434Z",
+              "WhenOpened": "2025-09-05T12:34:35.539Z",
               "EditorCaption": ""
             },
             {
@@ -92,6 +96,19 @@
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\productRepository.cs",
+              "RelativeDocumentMoniker": "facturaApp\\data\\productRepository.cs",
+              "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\productRepository.cs",
+              "RelativeToolTip": "facturaApp\\data\\productRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wDYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T05:28:12.434Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -103,14 +120,14 @@
               "RelativeDocumentMoniker": "facturaApp\\data\\billRepository.cs",
               "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\billRepository.cs",
               "RelativeToolTip": "facturaApp\\data\\billRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwDUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T03:19:14.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "product.cs",
               "DocumentMoniker": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\domain\\product.cs",
               "RelativeDocumentMoniker": "facturaApp\\domain\\product.cs",
@@ -136,52 +153,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Ibillrepository.cs",
               "DocumentMoniker": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\Ibillrepository.cs",
               "RelativeDocumentMoniker": "facturaApp\\data\\Ibillrepository.cs",
               "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\Ibillrepository.cs",
               "RelativeToolTip": "facturaApp\\data\\Ibillrepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T01:15:02.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Datahelper.cs",
               "DocumentMoniker": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\Datahelper.cs",
               "RelativeDocumentMoniker": "facturaApp\\data\\Datahelper.cs",
               "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\data\\Datahelper.cs",
               "RelativeToolTip": "facturaApp\\data\\Datahelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T01:15:01.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "productservices.cs",
               "DocumentMoniker": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\services\\productservices.cs",
               "RelativeDocumentMoniker": "facturaApp\\services\\productservices.cs",
               "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\services\\productservices.cs",
               "RelativeToolTip": "facturaApp\\services\\productservices.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T00:52:58.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\Program.cs",
               "RelativeDocumentMoniker": "facturaApp\\Program.cs",
               "ToolTip": "C:\\Users\\davil\\Git-ProgII-2025\\factura\\facturaApp\\Program.cs",
               "RelativeToolTip": "facturaApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T23:36:08.097Z",
               "EditorCaption": ""

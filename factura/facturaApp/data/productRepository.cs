@@ -50,9 +50,9 @@ namespace facturaApp.data
                 Product pr = new Product()
                 {
                     Id = (int)dt.Rows[0]["id_articulo"],
-                    Name = (string)dt.Rows[1]["nombre"],
-                    UnitPrice = Convert.ToDouble(dt.Rows[2]["precioUnitario"]),
-                    stock = (int)dt.Rows[3]["stock"],
+                    Name = (string)dt.Rows[0]["nombre"],
+                    UnitPrice = Convert.ToDouble(dt.Rows[0]["precioUnitario"]),
+                    stock = (int)dt.Rows[0]["stock"],
                    
                 };
 
