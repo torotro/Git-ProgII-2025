@@ -9,9 +9,9 @@ namespace facturaApp.data
 {
     internal interface Iproductrepository
     {
-        List<product> getall();
-    
-        bool save(product product);
+        List<Product> getall();
+        Product? getbyid(int id);
+        bool save(Product product);
        
     }
 }

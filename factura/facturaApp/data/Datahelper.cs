@@ -27,7 +27,36 @@ namespace facturaApp.data
             return _instance;
         }
 
-        public DataTable ExecuteSPQuery(string sp, List<parameters>? param = null)
+        public DataTable ExecuteSPQuery(string sp)
+        {
+            DataTable dt = new DataTable();
+            try
+            {
+
+                _connection.Open();
+                var cmd = new SqlCommand(sp, _connection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = sp;
+
+
+            
+
+                dt.Load(cmd.ExecuteReader());
+            }
+            catch (SqlException ex)
+            {
+
+                throw;
+            }
+            finally
+            {
+
+                _connection.Close();
+            }
+
+            return dt;
+        }
+        public DataTable ExecuteSPQuery(string sp, List<parameters>? param)
         {
             DataTable dt = new DataTable();
             try
@@ -62,6 +91,17 @@ namespace facturaApp.data
 
             return dt;
         }
+
+
+        public int executeTransact(string sp, List<parameters>? param,SqlTransaction tr)
+        {
+            return 0;
+        }
+
+        public SqlConnection GetConnection()
+        {
+            return _connection;
+        } 
 
     }
 }

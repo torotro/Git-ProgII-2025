@@ -11,15 +11,15 @@ namespace facturaApp.data
     internal class productRepository : Iproductrepository
     {
         
-        public List<product> getall()
+        public List<Product> getall()
         {
-            List<product>lst = new List<product>();
+            List<Product>lst = new List<Product>();
 
             var dt = Datahelper.GetInstance().ExecuteSPQuery("sp_recuperar_Articulos");
             foreach (DataRow item in dt.Rows) 
             {
 
-                product p = new product();
+                Product p = new Product();
                 p.Id = Convert.ToInt32(item["id_articulo"]);
                 p.Name=(string)item["nombre"];
                 p.UnitPrice = (double)item["precioUnitario"];
@@ -31,8 +31,39 @@ namespace facturaApp.data
             return lst;
         }
 
-        
-        public bool save(product product)
+        public Product? getbyid(int id)
+        {
+            List<parameters> p = new List<parameters>()
+           {
+               new parameters()
+               {
+                   Name="@id",
+                   Valor=id
+               }
+
+              
+           };
+            var dt = Datahelper.GetInstance().ExecuteSPQuery("sp_recuperar_Articulos_id", p);
+
+            if (dt != null && dt.Rows.Count > 0)
+            {
+                Product pr = new Product()
+                {
+                    Id = (int)dt.Rows[0]["id_articulo"],
+                    Name = (string)dt.Rows[0]["nombre"],
+                    UnitPrice = (double)dt.Rows[0]["precio"],
+                    stock = (int)dt.Rows[0]["stock"],
+                   
+                };
+
+                return pr;
+            }
+
+            return null;
+
+        }
+
+        public bool save(Product product)
         {
             throw new NotImplementedException();
         }

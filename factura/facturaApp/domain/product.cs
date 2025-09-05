@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace facturaApp.domain
 {
-    public class product
+    public class Product
     {
         public int Id {  get; set; }
-        public string Name { get; set; }
+        public string? Name { get; set; }
 
         public double UnitPrice { get; set; }
 
@@ -18,7 +18,7 @@ namespace facturaApp.domain
 
         public override string ToString()
         {
-            return Name + "-" + stock;
+            return Id +"-" + Name + "-" + stock;
         }
 
     }

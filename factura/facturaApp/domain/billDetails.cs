@@ -8,7 +8,9 @@ namespace facturaApp.domain
 {
     public class billDetails
     {
-        public product? product {  get; set; }
+        public Product? product {  get; set; }
+
+        public Bill? id { get; set; }
         public int count {  get; set; }
 
         public float price { get; set; }    
